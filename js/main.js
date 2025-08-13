@@ -97,9 +97,6 @@ const locations = [
     { lat: -10.414480862625098, lng: -65.33144535390771, title: 'Nova Mamoré' },
     { lat: -10.780280005321504, lng: -65.33301796161155, title: 'Guajará-Mirim' },
     { lat: -10.374554528836622, lng: -64.80597021222648, title: 'Nova Dimensão' },
-    { lat: -9.657384902426358, lng: -65.74021495576011, title: 'Vista Alegre do Abunã' },
-    { lat: -9.772504471159463, lng: -66.36477920486534, title: 'Extrema' },
-    { lat: -9.761585022875362, lng: -66.61735353248147, title: 'Nova California' }
 ];
 
 async function initMap() {
@@ -133,4 +130,5 @@ async function initMap() {
             }
         });
     });
+
 }
