@@ -96,7 +96,7 @@ const locations = [
     { lat: -9.257549542880978, lng: -64.4087398966081, title: 'Jaci Paraná' },
     { lat: -10.414480862625098, lng: -65.33144535390771, title: 'Nova Mamoré' },
     { lat: -10.780280005321504, lng: -65.33301796161155, title: 'Guajará-Mirim' },
-    { lat: -10.374554528836622, lng: -64.80597021222648, title: 'Nova Dimensão' },
+    { lat: -10.374554528836622, lng: -64.80597021222648, title: 'Nova Dimensão' }
 ];
 
 async function initMap() {
@@ -132,3 +132,4 @@ async function initMap() {
     });
 
 }
+
